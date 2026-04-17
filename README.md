@@ -10,5 +10,6 @@ There can **3 main elements** included in a single line:
 These elements are structured as follow: **Speaker: Message \image:Image Path**
 
 ### Common problems:
-":" must be added after speaker to pinpoint where the name ends.\n
+":" must be added after speaker to pinpoint where the name ends.
+
 "\image" must be added before image to pinpoint that the following text is Image Path.
