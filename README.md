@@ -7,4 +7,4 @@ There can **3 main elements** included in a single line:
   1. The speaker (optional)
   2. The message 
   3. The image (optional)
-These elements are structured as follow: 'Speaker' : 'message' \image:'Image path'
+These elements are structured as follow: Highlight==Speaker== : Highlight==message== \Highlight==image:Image path==
