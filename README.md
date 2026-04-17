@@ -11,4 +11,4 @@ These elements are structured as follow: **Speaker: Message \image:[Image Path]*
 
 ### Common problems:
 ":" must be added after speaker to pinpoint where the name ends.
- "\image" must be added before image to pinpoint that the following text is Image Path.
+"\image" must be added before image to pinpoint that the following text is Image Path.
