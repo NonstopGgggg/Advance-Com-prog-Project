@@ -1,0 +1,9 @@
+: As karl walking along the path
+: He enter a new room
+: inside this room there are a lot of documents lay around the area
+Karl: Ah 'Lore Dump Room' again
+Karl: Look like the information isn't the same as the last room
+Karl: Oh my reading quota is back again. So reading?
+Karl: I don't think so
+: Karl look at some documents and left it there
+\TRUE\Low-Grade-Story\Script\Room14\Room14C.txt

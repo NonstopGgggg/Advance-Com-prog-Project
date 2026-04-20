@@ -1,0 +1,6 @@
+: You walk pass the area until you see a door
+: The glass door gleam the light of the lonely night outside
+: You feel relieved as each step pass is each step closer to the end
+Karl: That is all it is...
+: No... that isn't nor it is an escape
+\TRUE\Low-Grade-Story\Script\ThankYouForPlaying.txt

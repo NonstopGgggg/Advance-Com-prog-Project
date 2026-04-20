@@ -1,0 +1,5 @@
+: Karl enter an room
+: At the center of the room there is an altar with many symbol around them
+Karl: ...The Ritual Room
+Karl: Perform 'THE ritual'...
+\TRUE\Low-Grade-Story\Script\Room11\RitualCNoGuard.txt

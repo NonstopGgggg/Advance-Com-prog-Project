@@ -1,0 +1,14 @@
+: As karl walking along the path
+: He enter a new room
+: inside this room there are a lot of documents lay around the area
+Karl: Ah 'Lore Dump Room' let me read something in this room first
+Karl: Look like the information isn't the same as the last room
+Karl: Oh my reading quota is back yeahhhhhhh
+Karl: This gonna take a while
+: Karl pick up some documents and start reading them
+Karl: Ahh my reading quota is out again
+Karl: Why I can only read 7 senetence per lore room?
+Karl: Why every room end up having ritual for summoning Cthulhu or his kin?
+Karl: Am I really in a eldritch story trying to no go insane?
+Karl: I don't think so
+\TRUE\Low-Grade-Story\Script\Room12\Room12NoGuardC.txt

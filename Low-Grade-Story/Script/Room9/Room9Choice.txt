@@ -1,0 +1,3 @@
+North\Low-Grade-Story\Script\Room7\Room7.txt
+West\Low-Grade-Story\Script\Room10.txt
+South\Low-Grade-Story\Script\EscapeRoom.txt

@@ -1,0 +1,5 @@
+: The light let you see the surrounding area more clear
+: Looking around you see many kind of furniture \image:Low-Grade-Story\Image\IKEA.jpg
+karl: Oh so I am just at furniture Store that is a maze?
+karl: Why it has to be this place....
+\TRUE\Low-Grade-Story\Script\Monster.txt

@@ -1,0 +1,5 @@
+Karl: Look like I need to the book about the ritual
+Karl: If I remember correctly the book is at the last room
+Karl: Look like I need to retrack, why I don't just read it then
+: Karl walk back to the last room and finding the book he throw always
+\True\Low-Grade-Story\Script\ReadName.txt

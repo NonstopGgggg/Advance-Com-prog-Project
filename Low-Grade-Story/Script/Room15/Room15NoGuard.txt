@@ -1,0 +1,4 @@
+: Karl enter an room with just normal furniture
+Karl: Room with nothing?
+Karl: At least there are nothing, let just find a way out
+\TRUE\Low-Grade-Story\Script\Room15\Room15CNoGuard.txt

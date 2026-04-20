@@ -1,0 +1,2 @@
+: Want to restart?\image:Low-Grade-Story\Image\You-Died.jpg
+\TRUE\Low-Grade-Story\Script\Restart.txt
