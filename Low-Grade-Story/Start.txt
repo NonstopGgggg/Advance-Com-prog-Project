@@ -1,0 +1,10 @@
+: You wake up in a very dark room and start to look around. \image:Low-Grade-Story\Image\BlackSceen.jpg
+karl: Why it soo dark here.
+: After a bit of adaption to the darkness, karl can see the surrounding area.
+: karl start to monolouge
+karl: The environment doesn't look so bad.
+karl: The floor look clean and there is a flashlight here.
+karl: Look like I am trapped in the shopping mall.
+karl: Why I feel like I am in some 'Creepy Pasta' situation.
+karl: Should I use this flashlight?
+\TRUE\Low-Grade-Story\Script\FlashLight.txt
