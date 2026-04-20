@@ -1,2 +1,0 @@
-: The monster ran toward you \image:Low-Grade-Story\Image\Monster.jpg
-\TRUE\Low-Grade-Story\Script\DeadSceen.txt
