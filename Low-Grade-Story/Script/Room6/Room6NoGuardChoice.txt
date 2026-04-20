@@ -1,0 +1,5 @@
+North\Low-Grade-Story\Script\Room2\First2FirstGuardNoName.txt
+East\Low-Grade-Story\Script\Room7\Room7.txt
+West\Low-Grade-Story\Script\Room5\First5FirstGuardNoName.txt
+South\Low-Grade-Story\Script\Room10.txt
+OpenFlashLight\Low-Grade-Story\Script\OpenFLashLight.txt

@@ -1,0 +1,4 @@
+: As karl walking along the path \image:Low-Grade-Story\Image\BlackSceen.jpg
+: He saw a fimilar room
+karl: This is the staring room?
+\TRUE\Low-Grade-Story\Script\Room6\Room6NoNameC.txt

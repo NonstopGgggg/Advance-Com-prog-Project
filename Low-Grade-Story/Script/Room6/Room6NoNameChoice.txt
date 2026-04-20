@@ -1,0 +1,5 @@
+North\Low-Grade-Story\Script\Room2\Room2.txt
+East\Low-Grade-Story\Script\\Room7\First7FirstNameNoGuard.txt
+West\Low-Grade-Story\Script\Room5\Room5.txt
+South\Low-Grade-Story\Script\Room10.txt
+Stay at this room\Low-Grade-Story\Script\Room6\StayStill.txt

@@ -1,0 +1,11 @@
+: As karl walking along the path
+: He enter a new room
+: inside this room there are a lot of documents lay around the area
+Karl: Ah 'Lore Dump Room' let me read something in this room first
+Karl: The information isn't the same as the last room
+Karl: This gonna take a while
+: Karl pick up some documents and start reading them
+Karl: Why every room end up having ritual for summoning Cthulhu or his kin?
+Karl: Am I really in a eldritch story trying to no go insane?
+Karl: I don't think so
+\TRUE\Low-Grade-Story\Script\Room7\Room7C.txt

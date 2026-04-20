@@ -1,0 +1,7 @@
+: As karl walking along the path
+: He enter a new room
+: inside this room he saw a group of people standing in the conner of the room \image:Low-Grade-Story\Image\Guard.jpg
+Karl: Those guard again, should I talk to them this time?
+Karl: Nah, I will just skip them.
+: \image:Low-Grade-Story\Image\BlackSceen.jpg
+\TRUE\Low-Grade-Story\Script\Room2\Room2NoNameC.txt

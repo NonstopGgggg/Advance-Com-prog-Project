@@ -1,0 +1,13 @@
+: As karl walking along the path
+: He enter a new room
+: inside this room there are a lot of documents lay around the area
+Karl: WoW Lore Dump Room with secret, how lucky am I
+Karl: Just walk from the start and got into the secret room already
+Karl: Well look like I need to read all of those documents
+Karl: This gonna take a while
+: Karl pick up some documents and start reading them
+Book Title: Ritual of Ingva#@$$$@#@$#Ka#@$@$$#ad
+Karl: ...What is that name even about
+Karl: ...am I in a eldritch horror story?
+Karl: should I read it?
+\TRUE\Low-Grade-Story\Script\Room7\Room7NameCNoGuard.txt

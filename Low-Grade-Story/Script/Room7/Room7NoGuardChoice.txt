@@ -1,0 +1,4 @@
+North\Low-Grade-Story\Script\Room3\Room3NoGuard.txt
+East\Low-Grade-Story\Script\Room8\Room8NoGuard.txt
+West\Low-Grade-Story\Script\Room6\Room6NoGuard.txt
+South\Low-Grade-Story\Script\Room11\Room11NoGuard.txt

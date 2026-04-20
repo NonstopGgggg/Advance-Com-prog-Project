@@ -1,0 +1,6 @@
+: As karl walking along the path
+: He enter a new room
+: inside this room he saw a group of people standing in the conner of the room \image:Low-Grade-Story\Image\Guard.jpg
+Karl: From their costume they probably be guard
+Karl: Should I talk to them?
+\TRUE\Low-Grade-Story\Script\Room5\Room5BodyGuardC.txt

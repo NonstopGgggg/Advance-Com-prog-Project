@@ -1,0 +1,3 @@
+YES!\Low-Grade-Story\Script\ReadName.txt
+...yes\Low-Grade-Story\Script\LoreDump.txt
+I can read only 7 sentence per year\Low-Grade-Story\Script\Room7\Room7ContinueNoGuard.txt
