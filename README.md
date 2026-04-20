@@ -13,3 +13,5 @@ These elements are structured as follow: **Speaker: Message \image:Image Path**
 ":" must be added after speaker to pinpoint where the name ends.
 
 "\image" must be added before image to pinpoint that the following text is Image Path.
+
+The program might not be able to display the correct image and text if the file is not found. Thus, check the path of your file to verify its integrity.
