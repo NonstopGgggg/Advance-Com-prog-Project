@@ -1,0 +1,8 @@
+: As karl walking along the path
+: He see a very large monster roaming around the area in front of him. \image:Low-Grade-Story\Image\Monster.jpg
+karl: Monster?
+karl: So this is how the monster of this Creepy Pasta look like
+karl: I hope we won't see each other again
+: karl walk away from the area
+: Before he could take a second step, the monster turn around and look at its visitor
+\TRUE\Low-Grade-Story\Script\Monster.txt
