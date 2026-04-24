@@ -17,21 +17,28 @@ The code also implement 4 design patterns as follow:
 
 # How to make a visual novel
 The steps are as follow: 
-##1. create a new folder and place it in the **same place** as Java Project folder.
-##2. Inside the new folder, create two folders: Script and Image
-##3. For Script folder, there can be **two main types (Normal and Route)** of text file placed here.
+1. create a new folder and place it in the **same place** as Java Project folder.
+2. Inside the new folder, create two folders: Script and Image
+3. For Script folder, there are be **two main types (Normal and Route)** of text file in the folder.
+4. For Image folder, just place images with the name mentioned in the Normal file in the folder.
 
 ## Normal Text
-A normal Text has **2** main components:
+A normal Text file has **2** main components:
   1. The dialogue
   2. Next dialogue path
 
+### Dialogue
 There can **3 main elements** included for each line of **the dialogue**:
-  1. The speaker (optional)
-  2. The message 
-  3. The image (optional)
+  1. Speaker (optional)
+  2. Message 
+  3. Image Path (optional)
 These elements are structured as follow: **Speaker: Message \image:Image Path**
 
+Example:
+Jane: Hi... \image:Visual Noveler\Image\image1.jpg
+Kalen: Sup! Since you just arrived, anything you wanna grab?
+
+### Next Dialogue Path
 The are **2 elements** in next dialogue path:
   1. Boolean (Does story continue)
      - TRUE for loading the next dialogue
@@ -39,18 +46,7 @@ The are **2 elements** in next dialogue path:
   2. Path (where is the next dialogue)
 These elements are structured as follow: **\Boolean\Path**
 
-### Example
-Jane: Hi... \image:Visual Noveler\Image\image1.jpg
-Kalen: Sup! Since you just arrived, anything you wanna grab?
-Jane: How gluttonous...
-Kalen: ...
-Jane: Ramen, I guess.
-Kalen: Pfft...
-Kalen: You said that yourself, yet you still suggest.
-Kalen: How nostalgic.\image:Visual Noveler\Image\image2.jpg
-Jane: Shio Ramen pls!
-Kalen: Ahh! Me too.
-Kalen: Just like when we were kids.
+Example:
 \TRUE\Visual Noveler\Script\Dialogue2.txt
 
 ## Route Text
@@ -58,17 +54,25 @@ A route text composed of **two text file**:
   1. Route indicator (Tell the program to handle the next text file as route file)
   2. Routes (Contain choices)
 
-There can **2 main elements** included for each line of **Routes**:
-  1. The message
-  2. path
-These elements are structured as follow: **Speaker: Message \image:Image Path**
+### Route Indicator
+There can **2 main elements** included in **Routes**:
+  1. Indicator
+  2. Path
+These elements are structured as follow: **\Indicator\Path**
 
-The are 2 elements in next dialogue path:
-  1. Boolean (Does story continue)
-     - TRUE for loading the next dialogue
-     - FALSE for stopping the dialogue
-  2. Path (where is the next dialogue)
-These elements are structured as follow \Boolean\Path
+example:
+\ROUTE\Visual Noveler\Script\RouteChoice1.txt
+
+### Routes
+There can **2 main elements** included for each line of **Routes**:
+  1. Message
+  2. Path (This path can points to the next Normal Text or Route Text)
+These elements are structured as follow: **Message\Path**
+
+example:
+Win race\Visual Noveler\Script\Route1-1.txt
+Lose race\Visual Noveler\Script\Route1-2.txt
+Let's go home\Visual Noveler\Script\Route1-3.txt
 
 ### Example
 Jane: Hi... \image:Visual Noveler\Image\image1.jpg
@@ -83,8 +87,6 @@ Jane: Shio Ramen pls!
 Kalen: Ahh! Me too.
 Kalen: Just like when we were kids.
 \TRUE\Visual Noveler\Script\Dialogue2.txt
-
-### Route Text
 
 ### Common problems:
 ":" must be added after speaker to pinpoint where the name ends.
