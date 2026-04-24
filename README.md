@@ -88,7 +88,7 @@ Kalen: Ahh! Me too.
 Kalen: Just like when we were kids.
 \TRUE\Visual Noveler\Script\Dialogue2.txt
 
-### Common problems:
+## Common problems:
 ":" must be added after speaker to pinpoint where the name ends.
 
 "\image" must be added before image to pinpoint that the following text is Image Path.
